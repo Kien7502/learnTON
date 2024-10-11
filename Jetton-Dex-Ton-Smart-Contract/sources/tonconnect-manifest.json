@@ -1,0 +1,8 @@
+{
+    "name": "YourAppName",
+    "description": "Description of your app",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "redirectUrl": "https://your-domain.com/callback",
+    "webhookUrl": "https://your-domain.com/webhook"
+  }
+  
